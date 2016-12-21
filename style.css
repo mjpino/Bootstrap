@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,700');
+
+body{
+	font-family: 'Raleway', sans-serif;	
+}
+.barra{
+	height: 112px;
+	margin-bottom: 0;
+}
+.logo img{
+	padding-left: 60%;
+}
+
+.navbar-right{
+	padding-right: 20%;
+}
+
+.jose a{
+	text-transform: uppercase;
+	font-size: 10px;
+	font-weight: 700;
+	color: #aaadb2;
+}
+.active{
+	color: #233141!important;
+}
+
+nav{
+	display: flex;
+	align-items: center;
+	flex-flow: row wrap;
+	background-color: white;
+}
+.navbar-default{
+	background-color: white;
+}
+
+.mono img{
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.mono {
+	background-image: url('img/indexbanner-bg3.jpg');
+	margin-bottom:0;
+	height: 665px;
+	width: 100%;
+	background-size: 100%;
+	box-sizing: border-box;
+	background-repeat: no-repeat;
+}
